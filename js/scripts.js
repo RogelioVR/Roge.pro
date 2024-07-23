@@ -1,11 +1,3 @@
-/*!
-* Blackrock Digital LLC - Vitality v3.1.0 (https://wrapbootstrap.com/theme/vitality-one-page-bootstrap-4-theme-WB02K3KK3)
-* Copyright 2013-2021 Blackrock Digital LLC
-*/
-// * * * * * * * * * * * * * * * *
-// Plugin Initialization Scripts *
-// * * * * * * * * * * * * * * * *
-
 (function ($) {
     "use strict"; // Start of use strict
 
